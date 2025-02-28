@@ -8,7 +8,7 @@ Hi there! 🚀 I'm a **software developer in the making**, eager to grow in the 
 
 ## 🛠 Technologies I work with  
 - **Languages:** Java | Kotlin | C# | SQL | Arduino  
-- **Development:** Android Studio | IntelliJ | Unity  
+- **Development:** Eclipse | Android Studio | IntelliJ | Unity  
 - **Databases:** MySQL | SQLite | Firebase  
 - **Other tools:** Git | Scratch | Virtual & Augmented Reality tools  
 
