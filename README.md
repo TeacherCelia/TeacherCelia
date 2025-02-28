@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👩‍💻 Celia Pérez | Software Developer  
 
-<!--
-**TeacherCelia/TeacherCelia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! 🚀 I'm a **software developer in the making**, eager to grow in the world of software development. While I'm just starting my journey in this field, I have a strong background in **teaching programming fundamentals through robotics**.  
 
-Here are some ideas to get you started:
+🔹 **6 years of experience** teaching **introductory programming** with Arduino, Virtual Reality, and Augmented Reality tools.  
+🔹 Passionate about **technology education** and helping others understand how things work.  
+🔹 Excited to **build and share** projects as I continue learning and improving my coding skills.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Technologies I work with  
+- **Languages:** Java | Kotlin | C# | SQL | Arduino  
+- **Development:** Android Studio | IntelliJ | Unity  
+- **Databases:** MySQL | SQLite | Firebase  
+- **Other tools:** Git | Scratch | Virtual & Augmented Reality tools  
+
+## 📌 What's next?  
+Right now, I'm focusing on improving my **software development skills**, and as I progress, I plan to upload my projects and share my learning journey.  
+
+## 📫 Connect with me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CeliaPérez-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/theteachercelia)  
+
