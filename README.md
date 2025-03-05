@@ -1,6 +1,6 @@
 # 👩‍💻 Celia Pérez | Software Developer  
 
-Hi there! 🚀 I'm a **software developer in the making**, eager to grow in the world of software development. While I'm just starting my journey in this field, I have a strong background in **teaching programming fundamentals through robotics**.  
+Hi there! I'm a **software developer in the making**, eager to grow in the world of software development. While I'm just starting my journey in this field, I have a strong background in **teaching programming fundamentals through robotics**.  
 
 🔹 **6 years of experience** teaching **introductory programming** with Arduino, Virtual Reality, and Augmented Reality tools.  
 🔹 Passionate about **technology education** and helping others understand how things work.  
